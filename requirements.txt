@@ -1,0 +1,6 @@
+scikit-image
+scikit-learn
+jupyterlab
+matplotlib
+numpy
+opencv-python==4.3.0.36
