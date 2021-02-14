@@ -36,3 +36,17 @@
 
 00. [Вводное занятие:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_00_introduction)
 	- введение в Computer Vision - основные задачи и направления.
+	
+01. [Формирование изображений. Основные понятия:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_01_images)
+    - представление изображений в компьютере;
+    - работа с цветом;
+    - аффинные преобразования;
+    - знакомство с библиотеками cv2, skimage;
+    - [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_01_images/homework).
+
+02. [Введение в обработку сигналов:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_02_signals)
+	- частотная область, преобразование Фурье;
+	- спектральный анализ;
+	- свертки, фильтры;
+	- кросс-корреляция;
+	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_02_signals/homework).
