@@ -63,3 +63,7 @@
 	- контураные признаки;
 	- матрица смежности и текстурные признаки;
 	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_04_global_features/homework).
+	
+05. [Локальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_05_local_features)
+	- локализация особых точек (Harris, Shi-Tomasi);	
+	- дескрипторы особых точек (SIFT).
