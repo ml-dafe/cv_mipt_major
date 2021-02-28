@@ -58,9 +58,8 @@
 	- морфологические операции;
 	- пирамиды изображений.
 
-04. [Глобальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_04_image_processing)
+04. [Глобальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_04_global_features)
 	- выделение границ и контуров;
-	- характеристики контуров;
-	- матрица смежности;
-	- метрики качества изображений;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_minor/tree/master/04.%20Global%20features/homework).
+	- контураные признаки;
+	- матрица смежности и текстурные признаки;
+	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_04_global_features/homework).
