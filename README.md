@@ -42,14 +42,14 @@
     - работа с цветом;
     - аффинные преобразования;
     - знакомство с библиотеками cv2, skimage;
-    - [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_01_images/homework).
+    - [домашнее задание №1](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_01_images/homework).
 
 02. [Введение в обработку сигналов:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_02_signals)
 	- частотная область, преобразование Фурье;
 	- спектральный анализ;
 	- свертки, фильтры;
 	- кросс-корреляция;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_02_signals/homework).
+	- [домашнее задание №2](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_02_signals/homework).
 	
 03. [Введение в обработку изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_03_image_processing)
 	- гистограммы изображений;
@@ -62,18 +62,18 @@
 	- выделение границ и контуров;
 	- контураные признаки;
 	- матрица смежности и текстурные признаки;
-	- [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_04_global_features/homework).
+	- [домашнее задание №3](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_04_global_features/homework).
 	
 05. [Локальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_05_local_features)
 	- локализация особых точек (Harris, Shi-Tomasi);	
 	- дескрипторы особых точек (SIFT).
-    - [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_05_local_features/homework).
+    - [домашнее задание №4](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_05_local_features/homework).
 	
 06. [Сегментация на изображениях:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_06_segmentation)
 	- Задача сегментации;	
 	- Иерархическая класетризация;
   	- Mean-Shift;
-    - [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_06_segmentation/homework).
+    - [домашнее задание №5](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_06_segmentation/homework).
 	
 07. [Параметрические модели:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_07_parametric_models)
 	- RANSAC;	
