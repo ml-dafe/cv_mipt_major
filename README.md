@@ -75,7 +75,7 @@
   	- Mean-Shift;
     - [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_06_segmentation/homework).
 	
-07. [Параметрические модели:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_05_local_features)
+07. [Параметрические модели:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_07_parametric_models)
 	- RANSAC;	
 	- дескрипторы особых точек (SIFT);
   	- дескриптор изображений HOG;
