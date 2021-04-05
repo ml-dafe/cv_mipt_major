@@ -68,3 +68,15 @@
 	- локализация особых точек (Harris, Shi-Tomasi);	
 	- дескрипторы особых точек (SIFT).
     - [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_05_local_features/homework).
+	
+06. [Сегментация на изображениях:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_06_segmentation)
+	- Задача сегментации;	
+	- Иерархическая класетризация;
+  	- Mean-Shift;
+    - [домашнее задание](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_06_segmentation/homework).
+	
+07. [Параметрические модели:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_05_local_features)
+	- RANSAC;	
+	- дескрипторы особых точек (SIFT);
+  	- дескриптор изображений HOG;
+	- пайплан задачи сшивки изображений (image stitching).
