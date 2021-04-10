@@ -81,7 +81,7 @@
   	- дескриптор изображений HOG;
 	- пайплан задачи сшивки изображений (image stitching).
 	
-08. [Распознавание образов:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_07_object_recognition)
+08. [Распознавание образов:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_08_object_recognition)
 	- постановка задачи, метрика качества;
 	- простой детектор на основе HOG;
   	- Deformable parts model.
