@@ -85,3 +85,17 @@
 	- постановка задачи, метрика качества;
 	- простой детектор на основе HOG;
   	- Deformable parts model.
+
+09. [Оптический видеопоток:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_09_motion)
+	- Оптический поток;
+	- Lucas-Kanade method;
+	- Horn-Schunk method;
+	- Пирамиды для сильного движения;
+	- Общий подход;
+	- Применения.
+
+10. [Задача сопровождения:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_10_tracking)
+	- Feature Tracking;
+	- Simple KLT tracker;
+	- 2D transformations;
+	- Iterative KLT tracker.
