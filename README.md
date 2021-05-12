@@ -34,6 +34,8 @@
 
 ## Программа курса:
 
+```[Запись занятий](https://youtube.com/playlist?list=PLQsqqFF3fDisnQkhNzBobVUEs1al10wr4)```
+
 00. [Вводное занятие:](https://github.com/ml-dafe/cv_mipt_major/tree/main/week_00_introduction)
 	- введение в Computer Vision - основные задачи и направления.
 	
