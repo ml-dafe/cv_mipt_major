@@ -36,3 +36,19 @@
    - работа с цветом;
    - аффинные преобразования;
    - знакомство с библиотеками cv2, skimage.
+   - [домашнее задание №1.](https://github.com/ml-dafe/cv_mipt_major/tree/main/01_first_images/homework)
+
+2. [Введение в обработку сигналов:](https://github.com/ml-dafe/cv_mipt_major/tree/main/02_signals)
+   - частотная область, преобразование Фурье;
+   - спектральный анализ;
+   - свертки, фильтры;
+   - кросс-корреляция;
+   - [домашнее задание №2.](https://github.com/ml-dafe/cv_mipt_major/tree/main/02_signals/homework)
+
+3. [Введение в обработку изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/03_image_processing)
+   - гистограммы изображений;
+   - цветовая коррекция;
+   - пороговое выделение;
+   - морфологические операции;
+   - пирамиды изображений;
+   - [домашнее задание №3.](https://github.com/ml-dafe/cv_mipt_major/tree/main/03_image_processing/homework)
