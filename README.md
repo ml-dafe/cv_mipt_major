@@ -58,3 +58,8 @@
    - матрица смежности и текстурные признаки;
    - практическая работа;
    - [домашнее задание №4](https://github.com/ml-dafe/cv_mipt_major/tree/main/04_global_features/homework).
+
+5. [Локальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/05_local_features)
+   - локализация особых точек (Harris, Shi-Tomasi);
+   - дескрипторы особых точек (SIFT);
+   - [домашнее задание №5](https://github.com/ml-dafe/cv_mipt_major/tree/main/05_local_features/homework).
