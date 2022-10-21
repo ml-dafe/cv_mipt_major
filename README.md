@@ -63,3 +63,10 @@
    - локализация особых точек (Harris, Shi-Tomasi);
    - дескрипторы особых точек (SIFT);
    - [домашнее задание №5](https://github.com/ml-dafe/cv_mipt_major/tree/main/05_local_features/homework).
+
+6. [Сегментация на изображениях:](https://github.com/ml-dafe/cv_mipt_major/tree/main/06_segmentation)
+   - Задача сегментации;
+   - Иерархическая класетризация;
+   - Mean-Shift;
+   - [домашнее задание №6](https://github.com/ml-dafe/cv_mipt_major/tree/main/06_segmentation/homework).
+
