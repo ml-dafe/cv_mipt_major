@@ -53,20 +53,40 @@
    - пирамиды изображений;
    - [домашнее задание №3](https://github.com/ml-dafe/cv_mipt_major/tree/main/03_image_processing/homework).
 
-4. [Глобальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/04_global_features)
+4. [Глобальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/04_global_feat)
    - выделение границ и контурные признаки;
    - матрица смежности и текстурные признаки;
    - практическая работа;
-   - [домашнее задание №4](https://github.com/ml-dafe/cv_mipt_major/tree/main/04_global_features/homework).
+   - [домашнее задание №4](https://github.com/ml-dafe/cv_mipt_major/tree/main/04_global_feat/homework).
 
-5. [Локальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/05_local_features)
+5. [Локальные признаки изображений:](https://github.com/ml-dafe/cv_mipt_major/tree/main/05_local_feat)
    - локализация особых точек (Harris, Shi-Tomasi);
    - дескрипторы особых точек (SIFT);
-   - [домашнее задание №5](https://github.com/ml-dafe/cv_mipt_major/tree/main/05_local_features/homework).
+   - [домашнее задание №5](https://github.com/ml-dafe/cv_mipt_major/tree/main/05_local_feat/homework).
 
-6. [Сегментация на изображениях:](https://github.com/ml-dafe/cv_mipt_major/tree/main/06_segmentation)
+6. [Сегментация на изображениях:]()
    - Задача сегментации;
    - Иерархическая класетризация;
    - Mean-Shift;
-   - [домашнее задание №6](https://github.com/ml-dafe/cv_mipt_major/tree/main/06_segmentation/homework).
+   - [домашнее задание №6]().
+
+7. Параметрические модели
+   - гистограммы ориентированных гридентов (HOG)
+   - RANSAC
+   - сопоставление изображений
+
+8. Распознавание образов
+   - Постановка задачи, метрики
+   - HOG, Dalal-Triggs 
+   - Deformable parts model 
+
+9. Оптический поток
+   - постановка задачи
+   - метод Лукас-Канады
+   - метод Horn-Schunk
+
+10. Трекинг объектов
+   - постановка задачи, метрики
+   - Kalman filter
+   - SORT
 
