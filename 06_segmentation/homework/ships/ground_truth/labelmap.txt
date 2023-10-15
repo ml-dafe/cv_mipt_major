@@ -1,0 +1,3 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+shore:255,204,51::
