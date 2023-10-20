@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+circle:111,136,60::
+triangle:53,16,233::
